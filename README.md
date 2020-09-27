@@ -51,7 +51,11 @@
       <td width="25%" align="center">
         <span>Material UI</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/material-ui.svg">
-      </td>      
+      </td>  
+     <td width="25%" align="center">
+        <span>Bootstrap</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
+      </td>
     </tr>
   </tbody>
 </table>
