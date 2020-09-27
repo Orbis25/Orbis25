@@ -1,16 +1,59 @@
-### Hi there 👋
+### Orbis Alonzo Gutierrez Full Stack Developer 🐱‍👤🤸‍♂️👩‍💻
 
-<!--
-**Orbis25/Orbis25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Gmail](https://img.shields.io/badge/gmail-%23B23121.svg?&style=for-the-badge&logo=gmail&logoColor=white
+)](mailto:orbisalonzo@gmail.com?subject=From%20GitHub&cc=orbisalonzo@gmail.com&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+[![LinkedIn Connect](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orbis-alonzo-gutierrez-54564716a/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently working as:** Systems analyst at <a href="https://migracion.gob.do/en/" target="_blank"><b>DGM</b>.</a>
+
+## 𝗠𝘆 Tech Stack
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>.NETCore</span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png">
+      </td>
+      <td width="25%" align="center">
+        <span>Git</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>Reactjs</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+      </td>
+      </td>
+        <td width="25%" align="center">
+        <span>React Native</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Javascript</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>VueJS</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>TypeScript</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <span>SQL Server</span><br><br><br>
+        <img height="64px" src="https://allvectorlogo.com/img/2017/02/microsoft-sql-server-logo.png">
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span>Material UI</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/material-ui.svg">
+      </td>      
+    </tr>
+  </tbody>
+</table>
+
+![EngincanV's github stats](https://github-readme-stats.vercel.app/api?username=Orbis25&show_icons=true&line_height=30)
