@@ -30,6 +30,11 @@
       </td>
     </tr>
     <tr valign="top">
+       </td>
+        <td width="25%" align="center">
+        <span>Redux</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
+      </td>
       <td width="25%" align="center">
         <span>Javascript</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
@@ -42,12 +47,12 @@
         <span>TypeScript</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
       </td>
-      <td width="25%" align="center">
+    </tr>
+    <tr valign="top">
+        <td width="25%" align="center">
         <span>SQL Server</span><br><br><br>
         <img height="64px" src="https://allvectorlogo.com/img/2017/02/microsoft-sql-server-logo.png">
       </td>
-    </tr>
-    <tr valign="top">
       <td width="25%" align="center">
         <span>Material UI</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/material-ui.svg">
