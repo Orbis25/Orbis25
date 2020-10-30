@@ -66,3 +66,8 @@
 </table>
 
 ![EngincanV's github stats](https://github-readme-stats.vercel.app/api?username=Orbis25&show_icons=true&line_height=30)
+
+
+| Youtube Teaching channel (Colaboratory) :tv: |
+| :--- |
+| [RO DEVS Youtube Channel](https://www.youtube.com/channel/UCHjyhBUaqk3HFsf7f-TrfXw) 
