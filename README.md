@@ -5,7 +5,7 @@
 [![LinkedIn Connect](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orbis-alonzo-gutierrez-54564716a/)
 
 
-**Currently working as:** Systems analyst at <a href="https://migracion.gob.do/en/" target="_blank"><b>DGM</b>.</a>
+**Currently working as:** Systems analyst at <a href="https://migracion.gob.do/en/" target="_blank"><b>DGM</b>.</a> 2 years
 
 ## 𝗠𝘆 Tech Stack
 <table>
