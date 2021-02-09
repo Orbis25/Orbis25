@@ -61,7 +61,15 @@
         <span>Bootstrap</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
       </td>
+  <td width="25%" align="center">
+        <span>Nodejs/Expressjs</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/express.svg">
+  </td>
     </tr>
+    <tr valign="top">
+    <td width="25%" align="center"><span>MongoDB</span><br><br><br><img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg"></td>
+  </tr>
+   
   </tbody>
 </table>
 
