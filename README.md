@@ -30,10 +30,9 @@
       </td>
     </tr>
     <tr valign="top">
-       </td>
         <td width="25%" align="center">
-        <span>Redux</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/redux.svg">
+        <span>Bootstrap</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
       </td>
       <td width="25%" align="center">
         <span>Javascript</span><br><br><br>
@@ -57,18 +56,17 @@
         <span>Material UI</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/material-ui.svg">
       </td>  
-     <td width="25%" align="center">
-        <span>Bootstrap</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
-      </td>
+    
   <td width="25%" align="center">
         <span>Nodejs/Expressjs</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/express.svg">
   </td>
+  <td width="25%" align="center">
+        <span>mongoDB</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+  </td>
     </tr>
-    <tr valign="top">
-    <td width="25%" align="center"><span>MongoDB</span><br><br><br><img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg"></td>
-  </tr>
+ 
    
   </tbody>
 </table>
