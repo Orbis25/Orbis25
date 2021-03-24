@@ -5,7 +5,7 @@
 [![LinkedIn Connect](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orbis-alonzo-gutierrez-54564716a/)
 
 **Work History**
- **1-** Mid Systems analyst at <a href="https://migracion.gob.do/en/" target="_blank"><b>DGM</b>.</a> 2 years
+ **1-** Mid Systems analyst at <a href="https://migracion.gob.do/en/" target="_blank"><b>DGM</b>.</a> 2 years </br>
 **Currently working as:** Sr systems analyst at <a href="https://www.apap.com.do/" target="_blank"><b>APAP</b>.</a>
 
 ## 𝗠𝘆 Tech Stack
