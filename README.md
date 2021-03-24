@@ -4,7 +4,7 @@
 )](mailto:orbisalonzo@gmail.com?subject=From%20GitHub&cc=orbisalonzo@gmail.com&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [![LinkedIn Connect](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orbis-alonzo-gutierrez-54564716a/)
 
-**Work History**
+**Work History** </br>
  **1-** Mid Systems analyst at <a href="https://migracion.gob.do/en/" target="_blank"><b>DGM</b>.</a> 2 years </br>
 **Currently working as:** Sr systems analyst at <a href="https://www.apap.com.do/" target="_blank"><b>APAP</b>.</a>
 
