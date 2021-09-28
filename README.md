@@ -1,4 +1,4 @@
-### Orbis Alonzo Gutierrez Full Stack Developer 🐱‍👤🤸‍♂️👩‍💻
+###  Full Stack Developer 🐱‍👤🤸‍♂️👩‍💻
 
 ## 𝗠𝘆 Tech Stack
 <table>
