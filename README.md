@@ -1,5 +1,9 @@
 ###  Full Stack Developer 🐱‍👤🤸‍♂️👩‍💻
 
+[![Gmail](https://img.shields.io/badge/gmail-%23B23121.svg?&style=for-the-badge&logo=gmail&logoColor=white
+)](mailto:orbisalonzo@gmail.com?subject=From%20GitHub&cc=orbisalonzo@gmail.com&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
+[![LinkedIn Connect](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/orbis-alonzo-gutierrez-54564716a/)
+
 ## 𝗠𝘆 Tech Stack
 <table>
   <tbody>
