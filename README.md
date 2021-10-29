@@ -36,13 +36,13 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
-        <span>VueJS</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vue.svg">
-      </td>
-      <td width="25%" align="center">
         <span>TypeScript</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
       </td>
+    <td width="25%" align="center">
+        <span>mongoDB</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
+  </td>
     </tr>
     <tr valign="top">
         <td width="25%" align="center">
@@ -58,10 +58,7 @@
         <span>Nodejs/Expressjs</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/express.svg">
   </td>
-  <td width="25%" align="center">
-        <span>mongoDB</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/mongodb.svg">
-  </td>
+
     </tr>
  
    
