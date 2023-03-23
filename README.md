@@ -12,10 +12,10 @@
         <span>.NETCore</span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/1200px-.NET_Core_Logo.svg.png">
       </td>
-      <td width="25%" align="center">
-        <span>Git</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
+       <td width="25%" align="center">
+        <span>Nestjs</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nestjs.svg">
+  </td>
       <td width="25%" align="center">
         <span>Reactjs</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
@@ -54,10 +54,7 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/material-ui.svg">
       </td>  
     
-  <td width="25%" align="center">
-        <span>Nodejs/Expressjs</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/express.svg">
-  </td>
+ 
 
 
  
